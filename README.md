@@ -11,7 +11,8 @@ Bold	**bold text**
 
 Italic	*italicized text*
 
-Blockquote	> blockquote of stuff that needs to be in a blockquote
+Blockquote
+> blockquote of stuff that needs to be in a blockquote
 
 Ordered List
 1. First item
